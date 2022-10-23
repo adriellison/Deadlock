@@ -45,8 +45,8 @@ def verificarLinhas():
 	segundoArray = primeiroArray + processos
 	print(linhas[primeiroArray])
 	print(linhas[segundoArray])
-	
-	for j in linhas
+
+	# for j in linhas
 
 
 verificarLinhas()
